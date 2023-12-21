@@ -4,7 +4,6 @@
 // @version      0.0.1
 // @description  Torn City Enhancer
 // @author       vavi
-// @exclude      *
 // @grant        none
 // ==/UserScript==
 
