@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Alteracoes
+// @name         Alteracoes: Vars and Functions
 // @namespace    PT
 // @version      0.0.1
 // @description  Torn City Enhancer
