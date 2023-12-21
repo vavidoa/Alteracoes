@@ -1,3 +1,12 @@
+// ==UserScript==
+// @name         Alteracoes
+// @namespace    PT
+// @version      0.0.1
+// @description  Torn City Enhancer
+// @author       vavi
+// @exclude      *
+// @grant        none
+// ==/UserScript==
 
 var attacksArray = new Array();
 attacksArray[0] = [5, 'Woodland Camo'];
