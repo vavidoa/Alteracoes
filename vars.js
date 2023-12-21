@@ -4,7 +4,7 @@
 // @version      0.0.1
 // @description  Torn City Enhancer
 // @author       vavi
-// @grant        none
+// @exclude      *
 // ==/UserScript==
 
 var attacksArray = new Array();
