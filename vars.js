@@ -1,4 +1,4 @@
-//arrays para awards
+
 var attacksArray = new Array();
 attacksArray[0] = [5, 'Woodland Camo'];
 attacksArray[1] = [20, 'Desert Storm Camo'];
